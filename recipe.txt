@@ -3,3 +3,9 @@ welcome ajay's github
 c
 c++
 java
+
+web languange
+
+html
+css
+javascript
